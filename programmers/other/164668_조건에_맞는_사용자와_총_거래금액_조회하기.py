@@ -2,7 +2,7 @@
 # 프로그래머스 (unknown)
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/164668
 # 작성자: 최영탁
-# 작성일: 2026. 01. 20. 11:29:56
+# 작성일: 2026. 01. 20. 20:41:09
 
 SELECT user_id,
 nickname,
